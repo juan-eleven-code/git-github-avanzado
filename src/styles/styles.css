@@ -5,3 +5,7 @@ html, body {
 main {
     height: 100%;
 }
+
+.login {
+    background-color: black;
+}
